@@ -2,13 +2,17 @@
 Ferrexpo PLC
 
 Introduction
+
 The purpose of this report is to evaluate and compare the financial and operating performance of Ferrexpo PLC against the industry benchmark companies, where a major emphasis is placed on Fresnillo PLC. Based on the computation of the most influential financial ratios and coefficients, this analysis aims to reveal the major advantages and disadvantages of the company’s activity, possible advantages, and threats. Also, the report will have an assessment of profitability, liquidity, and efficiency of Ferrexpo, pointing at its strong and weak points. From the above discussions, an organisational strategy will be proposed to improve future profit. There is also a recommendation for investment to a client who is interested in buying a stake of 10% of Ferrexpo using book and market value appraisals. In other words, the proposal for using the identified models is to obtain practical recommendations to promote decision-making improvement for the involved stakeholders.
+
 Overview of Ferrexpo PLC 
 Ferrexpo PLC is based in Switzerland, but has principal operations in Ukraine and is the world’s largest producer of iron ore pellets. The company is a major player in the global steel markets directly supplying high-quality iron ore pellets that are useful in steel making. Some of the activities that are undertaken by Ferrexpo entail; mining, processing, as well as transportation since the organisation enjoys an integrated supply chain (Ferrexpo, 2024). It focuses on the environmental factor that reduces the negative impact of the organisation's activities on the environment and the social factor that assists in improving the level of interaction with the community. Due to the sound financials and market positioning and due to global trends, such as car production and construction, Ferrexpo stands a good chance of performing well.
+
 Overview of Fresnillo PLC
 Fresnillo PLC is a global company dealing with the mining of precious metals with its origin in Mexico City Mexico. It is the world’s largest primary silver-producing company and also among the largest silver and gold producers in Mexico. This company has and manages several mines in Mexico as the Fresnillo, Saucito and Herradura mines (Fresnilloplc, 2024). It mainly engages in the exploration, development and production of silver and other commodities with a central emphasis on the policy of prudent and environmentally friendly mining. The firm constantly spends on technological developments and exploration activities in a bid to sustain and expand its resource base. A strategic vision and a well-defined and effective corporate model place Fresnillo at the forefront of the world’s precious metals market and create sustainable value for its shareholders.
 Financial and Operating Performance Analysis
 SWOT and PESTLE Analysis
+
 Strengths	Weaknesses
 ●	Strong financial performance with high profitability ratios.
 ●	Efficient operations with low inventory turnover days.
@@ -17,6 +21,7 @@ Strengths	Weaknesses
 ●	Limited diversification, focusing mainly on iron ore.
 ●	High sensitivity to geopolitical risks due to operations in Ukraine.
 ●	Decreasing net income over the past year.
+
 Opportunities	Threats
 ●	Expansion into new markets can diversify revenue streams.
 ●	Investing in sustainable mining practices could improve market image.
@@ -26,13 +31,17 @@ Opportunities	Threats
 ●	Increasing regulatory pressures related to environmental impact.
 ●	Competitive pressure from other mining companies
 
+
 Table 1: SWOT analysis of Ferrexpo PLC
 (Source: Ferrexpo, 2024)
 PESTLE Analysis
+
 Political Factors:
 The UK’s political risk index is also high purely for the fact it has a stable government low levels of corruption and excellent policies. It has a legal framework of constitutional monarchy and a parliamentary system of government. The government is headed by the Prime Minister while the monarch serves more in an emblematic capacity (Waverley, 2024). Some of the most important political parties currently are the SNP, The Labour Party, The Lib Dems and the Tories. 
+
 Economic Factors:
 The UK has a diverse and stable economy with a nominal GDP of $2.744 trillion in 2019 making it the 6th largest economy in the world. The country’s per capita income level was $41,030, putting the country in the league of the Top twenty richest countries. The economy is diversified across various sectors including the financial, technology, health, manufacturing and several other sectors which have received lots of FDI (Dalirazar and Sabzi, 2023). The current corporate tax rate in Nigeria is 19% to do it further to 18% may attract more investors. The inflation rate for the United Kingdom was 1.94% as of the year 2020, although it is minor above the intended inflation rate of the Bank of England which stands at 2%. The unemployment rate hovered at around 38% at the beginning of the year 2020 testifying to a sound labour market. 
+
 Social Factors:
 The forecasted population of the United Kingdom is 74 million by 2039 through a higher birth rate as compared to the mortality rate. This demographic change process is both a chance and a risk factor as far as specific sectors, such as the labour market and healthcare systems, are concerned (Xuân and Thu, 2023). The general health care system in the UK is fairly developed and famous for different services as it provides medical treatments for international patients. 
 Technological Factors:
